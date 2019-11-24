@@ -72,7 +72,7 @@ else
 {
 ?>
 <form action="" method="POST" align="center">
-<h1 color="#47ba0e">OpenCart HashCracker by 0x67756e6f37</h1>
+<h1 color="#47ba0e">OpenCart HashCracker by 0xZ3R0</h1>
 <p><input type="text" name="hash" class="supertext" placeholder="Hash"></p>
 <p><input type="text" name="salt" class="supertext" placeholder="Salt"></p>
 <p><input class="superbutton" type="submit" value="Start"></p>
