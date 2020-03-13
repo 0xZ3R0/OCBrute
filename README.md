@@ -1,3 +1,3 @@
-# OCBrute by 0XZ3R0
+# OCBrute by 0xZ3R0
 OpenCart CMS hash password bruteforcer.
 
